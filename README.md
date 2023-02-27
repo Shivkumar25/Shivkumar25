@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shivkumar S
 #### Aspiring Data Scientist
-![Aspiring Data Scientist](https://media-exp1.licdn.com/dms/image/D5616AQGzxsrJL7Hiaw/profile-displaybackgroundimage-shrink_350_1400/0/1669480720669?e=1674691200&v=beta&t=O4h65WcP9z05R0qlaryiAgrohguoZvvq2hV8nIJJOlo)
+![Aspiring Data Scientist](https://media.licdn.com/dms/image/D5616AQGzxsrJL7Hiaw/profile-displaybackgroundimage-shrink_350_1400/0/1669480720669?e=1683158400&v=beta&t=sURPzSIO9WDVOQg9F-38aEgnpevnftKsbS9KsdfebLY)
 
 I am Shivkumar S from India. I am an aspiring Data Scientist having interest in the domain of Data Science, Deep Learning, Cloud and Robotics.
 
