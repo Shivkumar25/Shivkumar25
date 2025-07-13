@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shivkumar S
 #### Aspiring Data Scientist
-![Welcome](welcome_page.png)
+![Welcome](welcome_message.png)
 
 I am Shivkumar S from India. I am an aspiring Data Scientist having interest in the domain of Data Science, Deep Learning, Federated Learning, Cloud Computing and Robotics.
 
