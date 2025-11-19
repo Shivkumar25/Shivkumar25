@@ -11,4 +11,4 @@ Skills: Federated Learning / Deep Learning / Machine Learning / Robotics / Pytor
 - 📫 How to reach me: https://www.linkedin.com/in/shivkumar-sankar/
 - 💻 How to know more about me: https://sites.google.com/view/shivkumar25/home
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shivkumar25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shivkumar-sankar//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shivkumar25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shivkumar-sankar//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='google-scholar' height='40'>](https://scholar.google.com/citations?user=Vv2Vx7IAAAAJ&hl=en)
