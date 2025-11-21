@@ -7,7 +7,6 @@ I am Shivkumar S from India. I am currently working as a Software Engineer and I
 Skills: Federated Learning / Deep Learning / Machine Learning / Robotics / Pytorch/ C / AWS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Data Science and Engineering 
 - 📫 How to reach me: https://www.linkedin.com/in/shivkumar-sankar/
 - 💻 How to know more about me: https://sites.google.com/view/shivkumar25/home
 
